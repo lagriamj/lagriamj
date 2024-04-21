@@ -1,5 +1,6 @@
-### Hi there, I'm @lagriamj 👋
+![IMG_0522](https://github.com/lagriamj/lagriamj/assets/90015916/a07b23c5-69a2-4644-a114-3d67162c728c)### Hi there, I'm @lagriamj 👋
 ### Back-end developer Intern at Infosoft Studio 🔭
+![IMG_0522](https://github.com/lagriamj/lagriamj/assets/90015916/91072b1d-b441-46f7-a812-5ab1c85a8300)
 
 <!--
 **lagriamj/lagriamj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
