@@ -1,5 +1,5 @@
 ### Hi there, I'm @lagriamj 👋
-### Back-end Dev Intern at Infosoft Studio 🔭
+### Back-End Dev Intern at Infosoft Studio 🔭
 
 <!--
 **lagriamj/lagriamj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
