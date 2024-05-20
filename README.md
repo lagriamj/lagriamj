@@ -1,6 +1,9 @@
 ### Hi there, I'm @lagriamj 👋
 ### Back-End Developer🔭
 
+
+- 🔭 I can do both frontend and backend development
+
 <!--
 **lagriamj/lagriamj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
