@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Web Developer at FinancePH
+**Hi there!, I'm Mark John Lagria a Full-Stack Web Developer at FinancePH**
 
 
 ## 🌐 Socials:
@@ -12,8 +12,5 @@ Full-Stack Web Developer at FinancePH
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lagriamj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=lagriamj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
